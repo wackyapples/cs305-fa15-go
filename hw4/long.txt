@@ -1,0 +1,230 @@
+* Radisys
+Embedded wireless infrastructure solutions
+http://www.radisys.com/
+5435 NE Dawson Creek Dr.
+None
+Hillsboro
+OR 
+97124
+45.545148
+-122.92975
+
+* Elemental
+Media streaming solutions
+http://www.elementaltechnologies.com/
+620 SW Fifth Ave.
+Suite 400
+Portland 
+OR 
+97204
+45.519246
+-122.677322
+
+* Thumbtack
+More than 240,000 service professionals are ready to help
+http://www.thumbtack.com/
+1001 Page Street
+Suite 45
+San Francisco
+CA 
+94117 
+37.772178
+-122.437308
+
+* Harland Financial
+Software and services for financial institutions of all sizes
+http://www.harlandfinancialsolutions.com/
+400 SW 6th Ave 
+Suite 200 
+Portland
+OR 
+97204
+45.520815
+-122.676485
+
+* Action Without Borders
+Job board for non-profit and other volunteer organizations
+http://www.idealist.org/
+209 SW Oak
+Suite 600
+Portland
+OR 
+97204
+45.520781
+-122.673204
+
+* Digimarc
+Digital watermarking
+http://www.digimarc.com/home
+9405 SW Gemini Drive
+None
+Beaverton 
+OR 
+97008 
+45.452323
+-122.792794
+
+* CPqD
+Center for Research and Development in Telecommunications
+http://www.cpqd.com.br
+Rod.Campinas/Mogi-Mirim
+Km 118,5
+Campinas-SP
+Brazil
+13086
+-23.548943
+-46.638818
+
+* Extensis
+Font management, web fonts, and digital asset management
+http://www.extensis.com/
+1800 SW First Avenue
+Suite 500
+Portland 
+OR 
+97201
+45.510132
+-122.677186
+
+* Hewlett-Packard
+Printers, among other things
+http://www.hp.com/
+18110 SE 34TH St 
+None
+Vancouver
+WA 
+98683 
+45.600222
+-122.485283
+
+* Kabam
+Massively multi-player social games for social networks
+https://www.kabam.com/
+101 Redwood Shores Parkway 
+Suite 250
+Redwood City
+CA 
+94065
+37.518682
+-122.254077
+
+* Sony Building
+Showroom, restaurant, shop
+http://www.sonybuilding.jp/e/index.html
+５äç-３−１
+Ginza
+Tokyo
+Japan
+00000
+35.686451
+139.691162
+
+* Webmd Health Service 
+Better information, better health
+None
+2701 NW Vaughn St 
+Suite 700 
+Portland 
+OR 
+97210
+45.537377
+-122.70808
+
+* CH2MHill
+Consultants in Design and Build 
+http://www.ch2m.com/corporate/
+2020 SW 4th Ave 
+Suite 300  
+Portland
+OR 
+97201
+45.508087
+-122.681832
+
+* InFocus
+DLP Projectors, Thin Displays
+http://www.infocus.com/
+13190 SW 68th Parkway
+Suite 200
+Portland
+OR 
+97223
+45.425029
+-122.74525
+
+* Daimler AG Headquarters
+Cars cars cars!
+http://www.daimler.com/company/daimler-worldwide
+Mercedesstr. 137
+None
+70327 Stuttgart
+Germany
+00000
+48.775418
+9.181759
+
+* Synopsys
+Electronic Design Automation
+http://www.synopsys.com/home.aspx
+2025 NW Cornelius Pass Rd 
+Suite A  
+Hillsboro
+OR
+97124
+45.533454
+-122.903025
+
+* Planar Systems
+LCD Monitors, Touch Screens and Projectors
+http://www.planar.com/
+1195 NW Compton Way  
+None
+Beaverton
+OR 
+97006
+45.527995
+-122.88346
+
+* Electro Scientific Industries
+Laser-based manufacturing solutions
+http://www.esi.com/
+13900 NW Science Park Drive
+None
+Portland
+OR 
+97229
+45.524983
+-122.819959
+
+* Cypress Semiconductor
+Mixed signal, programmable hardware solutions
+http://www.cypress.com/
+9125 S.W. Gemini Drive
+Suite 200
+Beaverton
+OR 
+97008
+45.454297
+-122.791545
+
+* Cascade Microtech, Inc.
+Precision Electrical Measurement
+http://www.cmicro.com/sales
+9100 SW Gemini Drive
+None
+Beaverton
+Oregon 
+97008
+45.454297
+-122.791545
+
+* Bonneville Power Administration
+A federal agency to market electrical power for PacNW
+http://www.bpa.gov/corporate/
+905 NE 11th Ave
+None
+Portland
+OR 
+97232
+45.529037
+-122.65602

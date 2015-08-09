@@ -1,0 +1,12 @@
+: main.c
+* root
+15
+* vegdahl
+0
+* ec2-user
+1
+* ubuntu
+4
+
+
+

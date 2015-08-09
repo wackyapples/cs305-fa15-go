@@ -1,0 +1,54 @@
+* Radisys
+Embedded wireless infrastructure solutions
+http://www.radisys.com/
+5435 NE Dawson Creek Dr.
+None
+Hillsboro
+OR 
+97124
+45.545148
+-122.92975
+
+* Harland Financial
+Software and services for financial institutions of all sizes
+http://www.harlandfinancialsolutions.com/
+400 SW 6th Ave 
+Suite 200 
+Portland
+OR 
+97204
+45.520815
+-122.676485
+
+* Action Without Borders
+Job board for non-profit and other volunteer organizations
+http://www.idealist.org/
+209 SW Oak
+Suite 600
+Portland
+OR 
+97204
+45.520781
+-122.673204
+
+* Digimarc
+Digital watermarking
+http://www.digimarc.com/home
+9405 SW Gemini Drive
+None
+Beaverton 
+OR 
+97008 
+45.452323
+-122.792794
+
+* Cypress Semiconductor
+Mixed signal, programmable hardware solutions
+http://www.cypress.com/
+9125 S.W. Gemini Drive
+Suite 200
+Beaverton
+OR 
+97008
+45.454297
+-122.791545
